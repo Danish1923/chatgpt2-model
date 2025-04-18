@@ -1,4 +1,4 @@
-# 🧠 ChatGPT2
+# 🧠 ChatGPT2 Using Tensorflow
 
 This repository contains a clean and modular implementation of a GPT-2 style Transformer model built using TensorFlow and Keras. It includes core components such as Multi-Head Self Attention, Feed Forward Networks, Transformer Blocks, and causal masking, all stitched into a functional GPT2-like model.
 
